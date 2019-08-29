@@ -1,0 +1,7 @@
+CPE_MAC_Info='3c:90:66:69:45:cb'
+http_url='http://admin:admin@192.168.1.1/admin/'
+FW_version='2.6.2.2'
+build_name='SmartRG'
+LAN1_MAC='b8:2a:72:c5:6f:b0'
+LAN1_IP='192.168.1.'
+lan_interfaceip='255.255.255.128'
